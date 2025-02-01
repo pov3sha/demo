@@ -1,4 +1,4 @@
 # demo
 My first ever repository on github
 # demo
-Author - Esha Srivastava
+Author - Esha Srivastava (VIT CHENNAI)
